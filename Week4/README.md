@@ -11,6 +11,13 @@ This task involved creating a multi-VPC architecture in AWS by provisioning two 
 - I updated route tables in both VPCs to enable communication across the peering link.
 - I verified peering connection was in **Active** state.
 
+## DELIVERABLES
+- Screenshots of the two VPC'S (VPC-A AND VPC -B) and their CIDR blocks.
+- Screenshot of Public and Private subnets of the two VPC'S.
+- Screenshot of VPC peering connection with active status.
+- Screenshot of routes tables with routes pointing to the other VPC's CIDR blocks throught the peering connection.
+  
+
 
 ## SCREENSHOTS
 
