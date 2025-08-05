@@ -12,6 +12,12 @@ The goal was to understand how to use AWS Identity Center to apply fine-grained 
 - I created a new user with login credentials.
 - I created and assigned a permission set using the predefined **SecurityAudit** policy.
 - I verified that the user had limited security auditing access as expected.
+
+## DELIVERABLES
+- Screenshot of Identity Instance Center Created.
+- Screenshot user created and assigned permission set.
+
+
 ## SCREENSHOTS
 - Identity center instance created.
 ![Identity Center Instance](https://github.com/ChideraA080/CSN-Bootcamp-Week-2-Task-AWS-Identity-Center/blob/main/CSN%20BOOTCAMP%20WEEK%202/CSN%20BOOTCAMP%20WEEK%202.IDENTITY%20CENTER%20INSTANCE.png)
