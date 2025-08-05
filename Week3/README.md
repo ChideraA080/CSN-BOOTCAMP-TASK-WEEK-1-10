@@ -12,6 +12,11 @@ I also assigned the instance a Name tag: `CSN-Bootcamp-Week3
 - I assigned the Name tag: `CSN-Bootcamp-Week3`.
 - I created a Security Group that allows RDP access on port 3389 from my personal IP only.
 - I connected successfully via Remote Desktop (RDP) and verified the connection.
+
+## DELIVERABLES
+- Screenshot of EC2 running instance
+- screenshot of Security Group allowing RDP Port 3389.
+- Screenshot of successfull emote Desktop (RDP) CONNECTION TO INSTANCE
   
 ## SCREENSHOTS
 
