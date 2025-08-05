@@ -1,6 +1,6 @@
 DESCRIPTION OF WHAT I DID FOR WEEK 5.
 
- DEPLOYING GRAFANA ON AMAZON ECS WITH FARGATE
+# DEPLOYING GRAFANA ON AMAZON ECS WITH FARGATE
 
 Task Description
 In this project, I deployed Grafana (a popular open-source dashboard and monitoring tool) on Amazon ECS with Fargate. The Grafana service runs on port 3000.  
